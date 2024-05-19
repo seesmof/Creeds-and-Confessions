@@ -1,2 +1,3 @@
-# Creeds and Confessions
- Contains a Creeds and Confessions book from ESV.org for the glory of Jesus Christ our Holy Lord Almighty Living GOD Most High ✝️💗🙏
+<div align="center">
+  <img src="./Cover_Page.jpg" alt="Creeds and Confessions Cover Image" width="300"/>
+</div>
